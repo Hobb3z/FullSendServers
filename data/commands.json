@@ -1,0 +1,1 @@
+[null,{"name":"Staffmeeting","permissions":"ADMINISTRATOR","restriction":"1","actions":[{"info":"1","find":"staff-chat","storage":"2","varName":"schat","name":"Find Channel"},{"channel":"5","varName":"schat","message":"@here Staff Meeting now. Starting in 5 minutes","storage":"0","varName2":"","name":"Send Message"}]}]
